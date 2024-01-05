@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "id": 1
+    },
+    {
+      "username": "admin123",
+      "email": "admin123@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "data",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:37:53.118Z",
+      "id": 2
+    },
+    {
+      "tweet": "hallo",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:44:35.975Z",
+      "id": 3
+    },
+    {
+      "tweet": "hallo",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:44:38.284Z",
+      "id": 4
+    },
+    {
+      "tweet": "hallo",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:44:39.056Z",
+      "id": 5
+    },
+    {
+      "tweet": "hallo",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:44:39.573Z",
+      "id": 6
+    },
+    {
+      "tweet": "hallo",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:44:39.669Z",
+      "id": 7
+    },
+    {
+      "tweet": "Apapun",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:45:21.486Z",
+      "id": 8
+    },
+    {
+      "tweet": "hallo semuanya",
+      "userId": 1,
+      "createdAt": "2023-12-17T11:45:24.043Z",
+      "id": 9
+    },
+    {
+      "tweet": "Yara",
+      "userId": 1,
+      "createdAt": "2023-12-17T14:03:48.374Z",
+      "id": 10
+    }
+  ]
+}
